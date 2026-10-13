@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Dataset and model files
+Dataset/
+dataset/
+*.h5
+*.keras
+*.weights.h5
+
+# Secrets
+.env
+*.pem
+
+# Temporary files
+.DS_Store
